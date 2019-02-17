@@ -1,4 +1,4 @@
-#En este script analizo el sitio web de google.com en Ingles
+#I analyzed the Google english homepage and I went through some of the Beautiful Soup and Request modules basic fundaments.
 import requests
 from bs4 import BeautifulSoup
 
